@@ -1,0 +1,19 @@
+# CTA - Public Performance Pages (CTA-PPP)
+
+macros and data to make plots for CTA-PPP
+
+(root based)
+
+
+# References and Sources
+
+- LAT Pass 7 & 8: Philippe BRUEL talk at TeVPA
+- HAWC: Abeysekaraa et al (HAWC collaboration) 2013
+- MAGIC: Alecsik et al (MAGIC collaboration) 2014, Table 2 (Angular resolution), Fig 7 (effective area), Tab 5 (differential sensitivities)
+- HESS: M.Holler et al (ICRC 2015)
+- VERITAS: public performance page
+
+# PPP Page publication
+
+- set version number with: "www.cta-observatory.org (2015-02-05)"
+- convert with Preview from pdf to png with 300 px
